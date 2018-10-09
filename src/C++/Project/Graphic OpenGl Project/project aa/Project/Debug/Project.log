@@ -1,0 +1,26 @@
+﻿  Project.cpp
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(198): warning C4101: 'y': unreferenced local variable
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(198): warning C4101: 'x': unreferenced local variable
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(200): warning C4101: 'stage': unreferenced local variable
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(457): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(514): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(569): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(622): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(673): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(722): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(769): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(814): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(835): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(856): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(908): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(949): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(988): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1025): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1060): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1093): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1124): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1154): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1181): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1224): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\tamrin\c++\graphic\project (khaled)\project\project.cpp(1229): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
