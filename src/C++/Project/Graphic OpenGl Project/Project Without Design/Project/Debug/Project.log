@@ -1,7 +1,0 @@
-﻿  Source.cpp
-c:\users\w t f4\desktop\project\project\source.cpp(126): warning C4101: 'shiny': unreferenced local variable
-c:\users\w t f4\desktop\project\project\source.cpp(271): warning C4018: '<': signed/unsigned mismatch
-c:\users\w t f4\desktop\project\project\source.cpp(1252): warning C4551: function call missing argument list
-c:\users\w t f4\desktop\project\project\source.cpp(1260): warning C4018: '<': signed/unsigned mismatch
-c:\users\w t f4\desktop\project\project\source.cpp(1393): warning C4018: '<': signed/unsigned mismatch
-  Project.vcxproj -> C:\Users\W T F4\Desktop\Project\Debug\Project.exe
